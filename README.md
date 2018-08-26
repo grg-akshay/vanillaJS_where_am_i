@@ -1,6 +1,6 @@
 This project aims at providing the computer's location on which the code is run.
 
-If the computer has an onboard-GPS, then the location fetched will be more precised.
+If the computer has an onboard-GPS, then the location fetched will be more precise.
 
 For fetching the location( latitude, longitude ), the Geolocation API is used and then the location is shown to the user by help of a red marker rendered on a static image. The image is rendered by use of Google Static Map API.
 
